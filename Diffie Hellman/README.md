@@ -9,7 +9,7 @@
 
 # Các bước biên dịch chương trình:
 - Bật cửa sổ terminal tại thư mục chính
-- gõ lệnh:
+### gõ lệnh:
     wsl
 để vào môi trường Ubuntu
 
