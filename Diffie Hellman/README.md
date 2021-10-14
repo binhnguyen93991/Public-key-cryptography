@@ -35,4 +35,4 @@ Các khóa trao đổi sẽ được hiển thị trên màn hình của server 
 Thông điệp từ tệp input.txt sẽ được gửi từ bên client đến phía server.
 Phía server nhận được thông điệp, in ra màn hình và giải mã thông điệp rồi ghi vào tệp output.txt
 
-*** Hình ảnh hướng dẫn thực hiện được lưu trong thư mục /docs
+## *** Hình ảnh hướng dẫn thực hiện được lưu trong thư mục /docs
