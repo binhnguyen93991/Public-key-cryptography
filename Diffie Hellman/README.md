@@ -1,17 +1,17 @@
 # Cài đặt môi trường cần thiết 
 ## Yêu cầu HDH: Ubuntu
-- Cài đặt trên môi trường window với WSL, thực hiện câu lệnh:
+##### Cài đặt trên môi trường window với WSL, thực hiện câu lệnh:
     wsl --install -d Ubuntu
 
 ## Yêu cầu package: GCC
-- Trên môi trường Ubuntu, thực hiện câu lệnh:
+##### Trên môi trường Ubuntu, thực hiện câu lệnh:
     sudo apt-get install gcc
 
 # Các bước biên dịch chương trình:
-- Bật cửa sổ terminal tại thư mục chính
-### gõ lệnh:
+##### Bật cửa sổ terminal tại thư mục chính
+##### Để vào môi trường Ubuntu gõ lệnh:
     wsl
-để vào môi trường Ubuntu
+
 
 ## Biên dịch 
 - Thực hiện câu lệnh
